@@ -10,7 +10,7 @@
                    <key>kind</key>
                    <string>software-package</string>
                    <key>url</key>
-                   <string>https://10.208.66.172:14443/task/331/download.ipa?file=weibo.ipa</string>
+                   <string>http://10.208.66.112:3000/task/5491/download.ipa?file=weibo.ipa</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -18,7 +18,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>https://10.208.66.172:14443/images/icon@2x.png</string>
+                   <string>http://10.208.66.112:3000/images/icon@2x.png</string>
                </dict>
                <dict>
                    <key>kind</key>
@@ -26,7 +26,7 @@
                    <key>needs-shine</key>
                    <true/>
                    <key>url</key>
-                   <string>${icon2x_url}</string>
+                   <string>http://10.208.66.112:3000/images/icon@2x.png</string>
                </dict>
            </array>
            <key>metadata</key>
